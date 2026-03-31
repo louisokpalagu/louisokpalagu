@@ -1,9 +1,9 @@
-Hi, I'm Louis 👋🏻 👨🏻‍💻. <br><br>
+Hi, I'm <h2> Louis </h2> 👋🏻 👨🏻‍💻. <br><br>
 Software Engineer | Salesforce Developer | Content Creator.
 <p align="center">
   <img src="Louis.jpg" alt="Louis Okpalagu Banner" width="100%" />
 </p>
-I’m currently working on building modern, responsive web applications with React, TypeScript, and scalable frontend architectures, while also expanding into full-stack development and backend integrations.<br>I’m looking to collaborate on Open-source projects, innovative web applications, and products that focus on great user experience, clean architecture, and scalable solutions.<br>I’m looking for help with Advanced system design, backend scalability, cloud deployment, and open-source best practices.<br>I’m currently learning/Deepening my knowledge of full-stack development, backend technologies, APIs, database design, and software architecture patterns.<br><br>Ask me about React, TypeScript, frontend engineering, UI architecture, performance optimization, and building scalable web applications.<br>Fun facts?: I enjoy turning complex ideas into clean, intuitive digital experiences, and I’m always exploring new technologies to improve how products are built.
+I’m currently working on building modern, responsive web applications with React, TypeScript, and scalable frontend architectures, while also expanding into full-stack development and backend integrations.<br>I’m looking to collaborate on Open-source projects, innovative web applications, and products that focus on great user experience, clean architecture, and scalable solutions.<br>I’m looking for help with Advanced system design, backend scalability, cloud deployment, and open-source best practices.<br>I’m currently learning/Deepening my knowledge of full-stack development, backend technologies, APIs, database design, and software architecture patterns.<br><br>Ask me about: React, TypeScript, frontend engineering, UI architecture, performance optimization, and building scalable web applications.<br>Fun facts?: I enjoy turning complex ideas into clean, intuitive digital experiences, and I’m always exploring new technologies to improve how products are built.
 
 
 ## 🌐 Socials:
