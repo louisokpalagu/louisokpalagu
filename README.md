@@ -1,4 +1,8 @@
-# 💫 About Me:
+Hi, I'm Louis
+Software Engineer | Salesforce Developer | Content Creator.
+<p align="center">
+  <img src="assets/banner.png" alt="Louis Okpalagu Banner" width="100%" />
+</p>
 I’m currently working on<br><br>Building modern, responsive web applications with React, TypeScript, and scalable frontend architectures, while also expanding into full-stack development and backend integrations.<br><br>I’m looking to collaborate on<br><br>Open-source projects, innovative web applications, and products that focus on great user experience, clean architecture, and scalable solutions.<br><br>I’m looking for help with<br><br>Advanced system design, backend scalability, cloud deployment, and open-source best practices.<br><br>I’m currently learning<br><br>Deepening my knowledge of full-stack development, backend technologies, APIs, database design, and software architecture patterns.<br><br>Ask me about<br><br>React, TypeScript, frontend engineering, UI architecture, performance optimization, and building scalable web applications.<br><br>Fun fact<br><br>I enjoy turning complex ideas into clean, intuitive digital experiences and I’m always exploring new technologies to improve how products are built.
 
 
